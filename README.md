@@ -58,7 +58,7 @@ this repository; a different number means the file did not load as expected.
 | `score_text` | Low 3,897 · Medium 1,914 · High 1,403 |
 | `two_year_recid` | 0: 3,963 · 1: 3,251 |
 | `c_charge_degree` | F 4,666 · M 2,548 |
-| people under 25 | 1,529, whether computed from `age < 25` or from `age_cat == "Less than 25"` |
+| people under 25 | 1,529 |
 | `age` range | 18 to 96 |
 | `decile_score` range | 1 to 10 |
 | missing values, examples | `days_b_screening_arrest` 307 · `c_jail_in` 307 · `c_offense_date` 1,159 · `c_arrest_date` 6,077 |
