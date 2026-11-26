@@ -1,0 +1,476 @@
+id,username,name,party,chamber,state,party_source
+0,SenatorBaldwin,Tammy Baldwin,Democrat,sen,WI,official list
+1,SenJohnBarrasso,John Barrasso,Republican,sen,WY,official list
+2,SenatorBennet,Michael F. Bennet,Democrat,sen,CO,official list
+3,MarshaBlackburn,Marsha Blackburn,Republican,sen,TN,official list
+4,SenBlumenthal,Richard Blumenthal,Democrat,sen,CT,official list
+5,RoyBlunt,Roy Blunt,Republican,sen,MO,official list
+6,CoryBooker,Cory Booker,Democrat,sen,NJ,assigned by hand
+7,JohnBoozman,John Boozman,Republican,sen,AR,official list
+8,SenatorBraun,Mike Braun,Republican,sen,IN,official list
+9,SenSherrodBrown,Sherrod Brown,Democrat,sen,OH,official list
+10,SenatorCantwell,Maria Cantwell,Democrat,sen,WA,official list
+11,SenCapito,Shelley Moore Capito,Republican,sen,WV,official list
+12,SenatorCardin,Benjamin L. Cardin,Democrat,sen,MD,official list
+13,SenatorCarper,Thomas R. Carper,Democrat,sen,DE,official list
+14,SenBobCasey,"Robert P. Casey, Jr.",Democrat,sen,PA,official list
+15,SenBillCassidy,Bill Cassidy,Republican,sen,LA,official list
+16,ChrisCoons,Christopher A. Coons,Democrat,sen,DE,official list
+17,JohnCornyn,John Cornyn,Republican,sen,TX,official list
+18,SenCortezMasto,Catherine Cortez Masto,Democrat,sen,NV,official list
+19,SenTomCotton,Tom Cotton,Republican,sen,AR,official list
+20,SenKevinCramer,Kevin Cramer,Republican,sen,ND,official list
+21,MikeCrapo,Mike Crapo,Republican,sen,ID,official list
+22,SenTedCruz,Ted Cruz,Republican,sen,TX,official list
+23,SteveDaines,Steve Daines,Republican,sen,MT,official list
+24,SenDuckworth,Tammy Duckworth,Democrat,sen,IL,official list
+25,SenatorDurbin,Richard J. Durbin,Democrat,sen,IL,official list
+26,SenJoniErnst,Joni Ernst,Republican,sen,IA,official list
+27,SenFeinstein,Dianne Feinstein,Democrat,sen,CA,official list
+28,SenatorFischer,Deb Fischer,Republican,sen,NE,official list
+29,SenGillibrand,Kirsten Gillibrand,Democrat,sen,NY,assigned by hand
+30,LindseyGrahamSC,Lindsey Graham,Republican,sen,SC,assigned by hand
+31,ChuckGrassley,Chuck Grassley,Republican,sen,IA,official list
+32,SenatorHagerty,Bill Hagerty,Republican,sen,TN,official list
+33,SenatorHassan,Margaret Wood Hassan,Democrat,sen,NH,official list
+34,HawleyMO,Josh Hawley,Republican,sen,MO,assigned by hand
+35,MartinHeinrich,Martin Heinrich,Democrat,sen,NM,official list
+36,SenatorHick,John W. Hickenlooper,Democrat,sen,CO,official list
+37,maziehirono,Mazie K. Hirono,Democrat,sen,HI,official list
+38,SenJohnHoeven,John Hoeven,Republican,sen,ND,official list
+39,SenHydeSmith,Cindy Hyde-Smith,Republican,sen,MS,official list
+40,JimInhofe,James M. Inhofe,Republican,sen,OK,official list
+41,SenRonJohnson,Ron Johnson,Republican,sen,WI,official list
+42,timkaine,Tim Kaine,Democrat,sen,VA,assigned by hand
+43,SenMarkKelly,Mark Kelly,Democrat,sen,AZ,official list
+44,SenJohnKennedy,John Kennedy,Republican,sen,LA,official list
+45,SenAngusKing,"Angus S. King, Jr.",Independent,sen,ME,official list
+46,SenAmyKlobuchar,Amy Klobuchar,Democrat,sen,MN,official list
+47,SenatorLankford,James Lankford,Republican,sen,OK,official list
+48,SenatorLeahy,Patrick J. Leahy,Democrat,sen,VT,official list
+49,SenMikeLee,Mike Lee,Republican,sen,UT,official list
+50,SenatorLujan,Ben Ray Luján,Democrat,sen,NM,official list
+51,SenLummis,Cynthia M. Lummis,Republican,sen,WY,official list
+52,Sen_JoeManchin,"Joe Manchin, III",Democrat,sen,WV,official list
+53,SenMarkey,Edward J. Markey,Democrat,sen,MA,official list
+54,SenatorMenendez,Robert Menendez,Democrat,sen,NJ,official list
+55,SenJeffMerkley,Jeff Merkley,Democrat,sen,OR,official list
+56,JerryMoran,Jerry Moran,Republican,sen,KS,official list
+57,lisamurkowski,Lisa Murkowski,Republican,sen,AK,official list
+58,ChrisMurphyCT,Chris Murphy,Democrat,sen,CT,assigned by hand
+59,PattyMurray,Patty Murray,Democrat,sen,WA,official list
+60,ossoff,Jon Ossoff,Democrat,sen,GA,assigned by hand
+61,SenAlexPadilla,Alex Padilla,Democrat,sen,CA,official list
+62,RandPaul,Rand Paul,Republican,sen,KY,assigned by hand
+63,SenGaryPeters,Gary C. Peters,Democrat,sen,MI,official list
+64,senrobportman,Rob Portman,Republican,sen,OH,official list
+65,SenJackReed,Jack Reed,Democrat,sen,RI,official list
+66,SenatorRisch,James E. Risch,Republican,sen,ID,official list
+67,SenatorRomney,Mitt Romney,Republican,sen,UT,official list
+68,SenJackyRosen,Jacky Rosen,Democrat,sen,NV,official list
+69,marcorubio,Marco Rubio,Republican,sen,FL,assigned by hand
+70,SenSanders,Bernard Sanders,Independent,sen,VT,official list
+71,SenSchumer,Charles E. Schumer,Democrat,sen,NY,official list
+72,SenRickScott,Rick Scott,Republican,sen,FL,official list
+73,SenatorTimScott,Tim Scott,Republican,sen,SC,official list
+74,SenatorShaheen,Jeanne Shaheen,Democrat,sen,NH,official list
+75,SenatorSinema,Kyrsten Sinema,Democrat,sen,AZ,official list
+76,SenTinaSmith,Tina Smith,Democrat,sen,MN,official list
+77,SenStabenow,Debbie Stabenow,Democrat,sen,MI,official list
+78,SenDanSullivan,Dan Sullivan,Republican,sen,AK,official list
+79,SenatorTester,Jon Tester,Democrat,sen,MT,official list
+80,SenJohnThune,John Thune,Republican,sen,SD,official list
+81,SenThomTillis,Thom Tillis,Republican,sen,NC,official list
+82,SenToomey,Patrick J. Toomey,Republican,sen,PA,official list
+83,SenTuberville,Tommy Tuberville,Republican,sen,AL,official list
+84,ChrisVanHollen,Chris Van Hollen,Democrat,sen,MD,official list
+85,MarkWarner,Mark R. Warner,Democrat,sen,VA,official list
+86,SenatorWarnock,Raphael G. Warnock,Democrat,sen,GA,official list
+87,SenWarren,Elizabeth Warren,Democrat,sen,MA,official list
+88,SenWhitehouse,Sheldon Whitehouse,Democrat,sen,RI,official list
+89,SenatorWicker,Roger F. Wicker,Republican,sen,MS,official list
+90,RonWyden,Ron Wyden,Democrat,sen,OR,official list
+91,SenToddYoung,Todd Young,Republican,sen,IN,official list
+92,RepAdams,Alma S. Adams,Democrat,rep,NC,official list
+93,Robert_Aderholt,Robert B. Aderholt,Republican,rep,AL,official list
+94,RepPeteAguilar,Pete Aguilar,Democrat,rep,CA,official list
+95,RepRickAllen,Rick W. Allen,Republican,rep,GA,official list
+96,RepColinAllred,Colin Z. Allred,Democrat,rep,TX,official list
+97,RepArmstrongND,Kelly Armstrong,Republican,rep,ND,official list
+98,RepArrington,Jodey C. Arrington,Republican,rep,TX,official list
+99,RepAuchincloss,Jake Auchincloss,Democrat,rep,MA,official list
+100,RepCindyAxne,Cynthia Axne,Democrat,rep,IA,official list
+101,RepBrianBabin,Brian Babin,Republican,rep,TX,official list
+102,RepDonBacon,Don Bacon,Republican,rep,NE,official list
+103,RepJimBaird,James R. Baird,Republican,rep,IN,official list
+104,RepBalderson,Troy Balderson,Republican,rep,OH,official list
+105,RepJimBanks,Jim Banks,Republican,rep,IN,official list
+106,RepAndyBarr,Andy Barr,Republican,rep,KY,official list
+107,RepBarragan,Nanette Diaz Barragán,Democrat,rep,CA,official list
+108,RepKarenBass,Karen Bass,Democrat,rep,CA,official list
+109,RepBeatty,Joyce Beatty,Democrat,rep,OH,official list
+110,RepBera,Ami Bera,Democrat,rep,CA,official list
+111,RepDonBeyer,"Donald S. Beyer, Jr.",Democrat,rep,VA,official list
+112,RepBice,Stephanie I. Bice,Republican,rep,OK,official list
+113,RepAndyBiggsAZ,Andy Biggs,Republican,rep,AZ,official list
+114,RepGusBilirakis,Gus M. Bilirakis,Republican,rep,FL,official list
+115,SanfordBishop,"Sanford D. Bishop, Jr.",Democrat,rep,GA,official list
+116,RepDanBishop,Dan Bishop,Republican,rep,NC,official list
+117,RepLBR,Lisa Blunt Rochester,Democrat,rep,DE,official list
+118,RepBoebert,Lauren Boebert,Republican,rep,CO,official list
+119,RepBonamici,Suzanne Bonamici,Democrat,rep,OR,official list
+120,RepBost,Mike Bost,Republican,rep,IL,official list
+121,RepBourdeaux,Carolyn Bourdeaux,Democrat,rep,GA,official list
+122,RepBowman,Jamaal Bowman,Democrat,rep,NY,official list
+123,CongBoyle,Brendan F. Boyle,Democrat,rep,PA,official list
+124,RepKevinBrady,Kevin Brady,Republican,rep,TX,official list
+125,RepMoBrooks,Mo Brooks,Republican,rep,AL,official list
+126,RepAnthonyBrown,Anthony G. Brown,Democrat,rep,MD,official list
+127,RepShontelBrown,Shontel M. Brown,Democrat,rep,OH,official list
+128,RepBrownley,Julia Brownley,Democrat,rep,CA,official list
+129,VernBuchanan,Vern Buchanan,Republican,rep,FL,official list
+130,RepKenBuck,Ken Buck,Republican,rep,CO,official list
+131,RepLarryBucshon,Larry Bucshon,Republican,rep,IN,official list
+132,RepTedBudd,Ted Budd,Republican,rep,NC,official list
+133,RepTimBurchett,Tim Burchett,Republican,rep,TN,official list
+134,michaelcburgess,Michael C. Burgess,Republican,rep,TX,official list
+135,RepCori,Cori Bush,Democrat,rep,MO,official list
+136,RepCheri,Cheri Bustos,Democrat,rep,IL,official list
+137,RepKatCammack,Kat Cammack,Republican,rep,FL,official list
+138,RepCarbajal,Salud O. Carbajal,Democrat,rep,CA,official list
+139,RepCardenas,Tony Cárdenas,Democrat,rep,CA,official list
+140,RepMikeCarey,Mike Carey,Republican,rep,OH,official list
+141,RepJerryCarl,Jerry L. Carl,Republican,rep,AL,official list
+142,RepAndreCarson,André Carson,Democrat,rep,IN,official list
+143,RepBuddyCarter,"Earl L. ""Buddy"" Carter",Republican,rep,GA,official list
+144,JudgeCarter,John R. Carter,Republican,rep,TX,official list
+145,RepTroyCarter,Troy A. Carter,Democrat,rep,LA,official list
+146,RepEdCase,Ed Case,Democrat,rep,HI,official list
+147,RepCasten,Sean Casten,Democrat,rep,IL,official list
+148,USRepKCastor,Kathy Castor,Democrat,rep,FL,official list
+149,JoaquinCastrotx,Joaquin Castro,Democrat,rep,TX,official list
+150,RepCawthorn,Madison Cawthorn,Republican,rep,NC,official list
+151,RepSteveChabot,Steve Chabot,Republican,rep,OH,official list
+152,RepLizCheney,Liz Cheney,Republican,rep,WY,official list
+153,CongresswomanSC,Sheila Cherfilus-McCormick,Democrat,rep,FL,assigned by hand
+154,RepJudyChu,Judy Chu,Democrat,rep,CA,official list
+155,RepKClark,Katherine M. Clark,Democrat,rep,MA,official list
+156,RepYvetteClarke,Yvette D. Clarke,Democrat,rep,NY,official list
+157,repcleaver,Emanuel Cleaver,Democrat,rep,MO,official list
+158,RepBenCline,Ben Cline,Republican,rep,VA,official list
+159,RepCloudTX,Michael Cloud,Republican,rep,TX,official list
+160,WhipClyburn,James E. Clyburn,Democrat,rep,SC,official list
+161,Rep_Clyde,Andrew S. Clyde,Republican,rep,GA,official list
+162,RepCohen,Steve Cohen,Democrat,rep,TN,official list
+163,TomColeOK04,Tom Cole,Republican,rep,OK,official list
+164,RepJamesComer,James Comer,Republican,rep,KY,official list
+165,GerryConnolly,Gerald E. Connolly,Democrat,rep,VA,official list
+166,RepLouCorrea,J. Luis Correa,Democrat,rep,CA,official list
+167,RepJimCosta,Jim Costa,Democrat,rep,CA,official list
+168,RepJoeCourtney,Joe Courtney,Democrat,rep,CT,official list
+169,RepAngieCraig,Angie Craig,Democrat,rep,MN,official list
+170,RepCharlieCrist,Charlie Crist,Democrat,rep,FL,official list
+171,RepJasonCrow,Jason Crow,Democrat,rep,CO,official list
+172,RepJohnCurtis,John R. Curtis,Republican,rep,UT,official list
+173,RepDavids,Sharice Davids,Democrat,rep,KS,official list
+174,WarrenDavidson,Warren Davidson,Republican,rep,OH,official list
+175,RodneyDavis,Rodney Davis,Republican,rep,IL,official list
+176,RepDean,Madeleine Dean,Democrat,rep,PA,official list
+177,RepPeterDeFazio,Peter A. DeFazio,Democrat,rep,OR,official list
+178,RepDianaDeGette,Diana DeGette,Democrat,rep,CO,official list
+179,rosadelauro,Rosa L. DeLauro,Democrat,rep,CT,official list
+180,RepDelBene,Suzan K. DelBene,Democrat,rep,WA,official list
+181,repdelgado,Antonio Delgado,Democrat,rep,NY,assigned by hand
+182,RepValDemings,Val Butler Demings,Democrat,rep,FL,official list
+183,RepDeSaulnier,Mark DeSaulnier,Democrat,rep,CA,official list
+184,RepTedDeutch,Theodore E. Deutch,Democrat,rep,FL,official list
+185,MarioDB,Mario Diaz-Balart,Republican,rep,FL,official list
+186,RepDebDingell,Debbie Dingell,Democrat,rep,MI,official list
+187,RepLloydDoggett,Lloyd Doggett,Democrat,rep,TX,official list
+188,RepDonaldsPress,Byron Donalds,Republican,rep,FL,official list
+189,USRepMikeDoyle,Michael F. Doyle,Democrat,rep,PA,official list
+190,RepJeffDuncan,Jeff Duncan,Republican,rep,SC,official list
+191,DrNealDunnFL2,Neal P. Dunn,Republican,rep,FL,official list
+192,RepTomEmmer,Tom Emmer,Republican,rep,MN,official list
+193,RepEscobar,Veronica Escobar,Democrat,rep,TX,official list
+194,RepAnnaEshoo,Anna G. Eshoo,Democrat,rep,CA,official list
+195,RepEspaillat,Adriano Espaillat,Democrat,rep,NY,official list
+196,RepRonEstes,Ron Estes,Republican,rep,KS,official list
+197,RepDwightEvans,Dwight Evans,Democrat,rep,PA,official list
+198,RepPatFallon,Pat Fallon,Republican,rep,TX,official list
+199,RepFeenstra,Randy Feenstra,Republican,rep,IA,official list
+200,RepDrewFerguson,A. Drew Ferguson IV,Republican,rep,GA,official list
+201,RepFischbach,Michelle Fischbach,Republican,rep,MN,official list
+202,RepBrianFitz,Brian K. Fitzpatrick,Republican,rep,PA,official list
+203,RepChuck,"Charles J. ""Chuck"" Fleischmann",Republican,rep,TN,official list
+204,RepFletcher,Lizzie Fletcher,Democrat,rep,TX,official list
+205,RepBillFoster,Bill Foster,Democrat,rep,IL,official list
+206,virginiafoxx,Virginia Foxx,Republican,rep,NC,official list
+207,RepLoisFrankel,Lois Frankel,Democrat,rep,FL,official list
+208,RepFranklin,C. Scott Franklin,Republican,rep,FL,official list
+209,RepRussFulcher,Russ Fulcher,Republican,rep,ID,official list
+210,RepMattGaetz,Matt Gaetz,Republican,rep,FL,official list
+211,RepGallagher,Mike Gallagher,Republican,rep,WI,official list
+212,RepRubenGallego,Ruben Gallego,Democrat,rep,AZ,official list
+213,RepGaramendi,John Garamendi,Democrat,rep,CA,official list
+214,RepGarbarino,Andrew R. Garbarino,Republican,rep,NY,official list
+215,RepChuyGarcia,"Jesús G. ""Chuy"" García",Democrat,rep,IL,official list
+216,RepMikeGarcia,Mike Garcia,Republican,rep,CA,official list
+217,RepSylviaGarcia,Sylvia R. Garcia,Democrat,rep,TX,official list
+218,RepBobGibbs,Bob Gibbs,Republican,rep,OH,official list
+219,RepCarlos,Carlos A. Gimenez,Republican,rep,FL,official list
+220,replouiegohmert,Louie Gohmert,Republican,rep,TX,official list
+221,RepGolden,Jared F. Golden,Democrat,rep,ME,official list
+222,RepJimmyGomez,Jimmy Gomez,Democrat,rep,CA,official list
+223,RepTonyGonzales,Tony Gonzales,Republican,rep,TX,official list
+224,RepJenniffer,Jenniffer González-Colón,Republican,rep,PR,official list
+225,RepGonzalez,Vicente Gonzalez,Democrat,rep,TX,official list
+226,RepBobGood,Bob Good,Republican,rep,VA,official list
+227,Lancegooden,Lance Gooden,Republican,rep,TX,assigned by hand
+228,RepGosar,Paul A. Gosar,Republican,rep,AZ,official list
+229,RepJoshG,Josh Gottheimer,Democrat,rep,NJ,official list
+230,RepKayGranger,Kay Granger,Republican,rep,TX,official list
+231,RepGarretGraves,Garret Graves,Republican,rep,LA,official list
+232,RepAlGreen,Al Green,Democrat,rep,TX,official list
+233,RepMarkGreen,Mark E. Green,Republican,rep,TN,official list
+234,RepMTG,Marjorie Taylor Greene,Republican,rep,GA,official list
+235,RepMGriffith,H. Morgan Griffith,Republican,rep,VA,official list
+236,RepRaulGrijalva,Raúl M. Grijalva,Democrat,rep,AZ,official list
+237,RepGrothman,Glenn Grothman,Republican,rep,WI,official list
+238,RepMichaelGuest,Michael Guest,Republican,rep,MS,official list
+239,RepGuthrie,Brett Guthrie,Republican,rep,KY,official list
+240,RepJoshHarder,Josh Harder,Democrat,rep,CA,official list
+241,RepHarshbarger,Diana Harshbarger,Republican,rep,TN,official list
+242,RepHartzler,Vicky Hartzler,Republican,rep,MO,official list
+243,RepJahanaHayes,Jahana Hayes,Democrat,rep,CT,official list
+244,repkevinhern,Kevin Hern,Republican,rep,OK,official list
+245,RepHerrell,Yvette Herrell,Republican,rep,NM,official list
+246,CongressmanHice,Jody B. Hice,Republican,rep,GA,official list
+247,RepBrianHiggins,Brian Higgins,Democrat,rep,NY,official list
+248,RepClayHiggins,Clay Higgins,Republican,rep,LA,official list
+249,RepFrenchHill,J. Hill,Republican,rep,AR,official list
+250,jahimes,James A. Himes,Democrat,rep,CT,official list
+251,RepAshleyHinson,Ashley Hinson,Republican,rep,IA,official list
+252,RepHorsford,Steven Horsford,Democrat,rep,NV,official list
+253,RepHoulahan,Chrissy Houlahan,Democrat,rep,PA,official list
+254,LeaderHoyer,Steny H. Hoyer,Democrat,rep,MD,official list
+255,RepRichHudson,Richard Hudson,Republican,rep,NC,official list
+256,RepHuffman,Jared Huffman,Democrat,rep,CA,official list
+257,RepHuizenga,Bill Huizenga,Republican,rep,MI,official list
+258,repdarrellissa,Darrell Issa,Republican,rep,CA,official list
+259,JacksonLeeTX18,Sheila Jackson Lee,Democrat,rep,TX,official list
+260,RepRonnyJackson,Ronny Jackson,Republican,rep,TX,official list
+261,RepJacobs,Chris Jacobs,Republican,rep,NY,official list
+262,RepSaraJacobs,Sara Jacobs,Democrat,rep,CA,official list
+263,RepJayapal,Pramila Jayapal,Democrat,rep,WA,official list
+264,RepJeffries,Hakeem S. Jeffries,Democrat,rep,NY,official list
+265,RepBillJohnson,Bill Johnson,Republican,rep,OH,official list
+266,RepDustyJohnson,Dusty Johnson,Republican,rep,SD,official list
+267,RepEBJ,Eddie Bernice Johnson,Democrat,rep,TX,official list
+268,RepHankJohnson,"Henry C. ""Hank"" Johnson, Jr.",Democrat,rep,GA,official list
+269,RepMikeJohnson,Mike Johnson,Republican,rep,LA,official list
+270,RepMondaire,Mondaire Jones,Democrat,rep,NY,official list
+271,Jim_Jordan,Jim Jordan,Republican,rep,OH,official list
+272,RepDaveJoyce,David P. Joyce,Republican,rep,OH,official list
+273,RepJohnJoyce,John Joyce,Republican,rep,PA,official list
+274,RepJohnKatko,John Katko,Republican,rep,NY,official list
+275,USRepKeating,William R. Keating,Democrat,rep,MA,official list
+276,RepFredKeller,Fred Keller,Republican,rep,PA,official list
+277,MikeKellyPA,Mike Kelly,Republican,rep,PA,official list
+278,RepRobinKelly,Robin L. Kelly,Democrat,rep,IL,official list
+279,RepRoKhanna,Ro Khanna,Democrat,rep,CA,official list
+280,RepDanKildee,Daniel T. Kildee,Democrat,rep,MI,official list
+281,RepDerekKilmer,Derek Kilmer,Democrat,rep,WA,official list
+282,RepAndyKimNJ,Andy Kim,Democrat,rep,NJ,official list
+283,RepYoungKim,Young Kim,Republican,rep,CA,official list
+284,RepRonKind,Ron Kind,Democrat,rep,WI,official list
+285,RepKirkpatrick,Ann Kirkpatrick,Democrat,rep,AZ,official list
+286,CongressmanRaja,Raja Krishnamoorthi,Democrat,rep,IL,official list
+287,RepAnnieKuster,Ann Kuster,Democrat,rep,NH,official list
+288,RepDavidKustoff,David Kustoff,Republican,rep,TN,official list
+289,RepLaHood,Darin LaHood,Republican,rep,IL,official list
+290,RepLaMalfa,Doug LaMalfa,Republican,rep,CA,official list
+291,JimLangevin,James R. Langevin,Democrat,rep,RI,official list
+292,RepRickLarsen,Rick Larsen,Democrat,rep,WA,official list
+293,RepJohnLarson,John B. Larson,Democrat,rep,CT,official list
+294,boblatta,Robert E. Latta,Republican,rep,OH,official list
+295,RepLaTurner,Jake LaTurner,Republican,rep,KS,official list
+296,RepLawrence,Brenda L. Lawrence,Democrat,rep,MI,official list
+297,RepAlLawsonJr,"Al Lawson, Jr.",Democrat,rep,FL,official list
+298,RepBarbaraLee,Barbara Lee,Democrat,rep,CA,official list
+299,RepSusieLee,Susie Lee,Democrat,rep,NV,official list
+300,RepTeresaLF,Teresa Leger Fernandez,Democrat,rep,NM,official list
+301,RepDLesko,Debbie Lesko,Republican,rep,AZ,official list
+302,RepJuliaLetlow,Julia Letlow,Republican,rep,LA,official list
+303,RepAndyLevin,Andy Levin,Democrat,rep,MI,official list
+304,RepMikeLevin,Mike Levin,Democrat,rep,CA,official list
+305,RepTedLieu,Ted Lieu,Democrat,rep,CA,official list
+306,USRepLong,Billy Long,Republican,rep,MO,official list
+307,RepLoudermilk,Barry Loudermilk,Republican,rep,GA,official list
+308,RepLowenthal,Alan S. Lowenthal,Democrat,rep,CA,official list
+309,RepFrankLucas,Frank D. Lucas,Republican,rep,OK,official list
+310,RepBlaine,Blaine Luetkemeyer,Republican,rep,MO,official list
+311,RepElaineLuria,Elaine G. Luria,Democrat,rep,VA,official list
+312,RepNancyMace,Nancy Mace,Republican,rep,SC,official list
+313,RepMalinowski,Tom Malinowski,Democrat,rep,NJ,official list
+314,RepMalliotakis,Nicole Malliotakis,Republican,rep,NY,official list
+315,RepMaloney,Carolyn B. Maloney,Democrat,rep,NY,official list
+316,RepSeanMaloney,Sean Patrick Maloney,Democrat,rep,NY,official list
+317,RepKManning,Kathy E. Manning,Democrat,rep,NC,official list
+318,RepThomasMassie,Thomas Massie,Republican,rep,KY,official list
+319,RepBrianMast,Brian J. Mast,Republican,rep,FL,official list
+320,DorisMatsui,Doris O. Matsui,Democrat,rep,CA,official list
+321,RepLucyMcBath,Lucy McBath,Democrat,rep,GA,official list
+322,GOPLeader,Kevin McCarthy,Republican,rep,CA,official list
+323,RepMcCaul,Michael T. McCaul,Republican,rep,TX,official list
+324,RepLisaMcClain,Lisa C. McClain,Republican,rep,MI,official list
+325,BettyMcCollum04,Betty McCollum,Democrat,rep,MN,official list
+326,RepMcEachin,A. Donald McEachin,Democrat,rep,VA,official list
+327,RepMcGovern,James P. McGovern,Democrat,rep,MA,official list
+328,PatrickMcHenry,Patrick T. McHenry,Republican,rep,NC,official list
+329,RepMcKinley,David B. McKinley,Republican,rep,WV,official list
+330,RepGregoryMeeks,Gregory W. Meeks,Democrat,rep,NY,official list
+331,RepMeijer,Peter Meijer,Republican,rep,MI,official list
+332,RepGraceMeng,Grace Meng,Democrat,rep,NY,official list
+333,RepMeuser,Daniel Meuser,Republican,rep,PA,official list
+334,RepKweisiMfume,Kweisi Mfume,Democrat,rep,MD,official list
+335,RepMMM,Mariannette Miller-Meeks,Republican,rep,IA,official list
+336,RepCarolMiller,Carol D. Miller,Republican,rep,WV,official list
+337,RepMaryMiller,Mary E. Miller,Republican,rep,IL,official list
+338,RepAlexMooney,Alexander Mooney,Republican,rep,WV,official list
+339,RepBarryMoore,Barry Moore,Republican,rep,AL,official list
+340,RepBlakeMoore,Blake D. Moore,Republican,rep,UT,official list
+341,RepGwenMoore,Gwen Moore,Democrat,rep,WI,official list
+342,RepJoeMorelle,Joseph D. Morelle,Democrat,rep,NY,official list
+343,RepMullin,Markwayne Mullin,Republican,rep,OK,official list
+344,RepGregMurphy,Gregory F. Murphy,Republican,rep,NC,official list
+345,RepStephMurphy,Stephanie N. Murphy,Democrat,rep,FL,official list
+346,RepJerryNadler,Jerrold Nadler,Democrat,rep,NY,official list
+347,gracenapolitano,Grace F. Napolitano,Democrat,rep,CA,official list
+348,RepRichardNeal,Richard E. Neal,Democrat,rep,MA,official list
+349,RepJoeNeguse,Joe Neguse,Democrat,rep,CO,official list
+350,RepTroyNehls,Troy E. Nehls,Republican,rep,TX,official list
+351,RepNewhouse,Dan Newhouse,Republican,rep,WA,official list
+352,RepMarieNewman,Marie Newman,Democrat,rep,IL,official list
+353,DonaldNorcross,Donald Norcross,Democrat,rep,NJ,official list
+354,RepRalphNorman,Ralph Norman,Republican,rep,SC,official list
+355,EleanorNorton,Eleanor Holmes Norton,Democrat,rep,DC,official list
+356,RepOHalleran,Tom O’Halleran,Democrat,rep,AZ,official list
+357,JayObernolte,Jay Obernolte,Republican,rep,CA,official list
+358,Ilhan,Ilhan Omar,Democrat,rep,MN,official list
+359,RepBurgessOwens,Burgess Owens,Republican,rep,UT,official list
+360,CongPalazzo,Steven M. Palazzo,Republican,rep,MS,official list
+361,FrankPallone,"Frank Pallone, Jr.",Democrat,rep,NJ,official list
+362,USRepGaryPalmer,Gary J. Palmer,Republican,rep,AL,official list
+363,RepJimmyPanetta,Jimmy Panetta,Democrat,rep,CA,official list
+364,RepChrisPappas,Chris Pappas,Democrat,rep,NH,official list
+365,BillPascrell,"Bill Pascrell, Jr.",Democrat,rep,NJ,official list
+366,RepDonaldPayne,"Donald M. Payne, Jr.",Democrat,rep,NJ,official list
+367,SpeakerPelosi,Nancy Pelosi,Democrat,rep,CA,official list
+368,RepPerlmutter,Ed Perlmutter,Democrat,rep,CO,official list
+369,RepScottPeters,Scott H. Peters,Democrat,rep,CA,official list
+370,RepPfluger,August Pfluger,Republican,rep,TX,official list
+371,RepDeanPhillips,Dean Phillips,Democrat,rep,MN,official list
+372,chelliepingree,Chellie Pingree,Democrat,rep,ME,official list
+373,StaceyPlaskett,Stacey E. Plaskett,Democrat,rep,VI,official list
+374,repmarkpocan,Mark Pocan,Democrat,rep,WI,official list
+375,RepKatiePorter,Katie Porter,Democrat,rep,CA,official list
+376,RepPressley,Ayanna Pressley,Democrat,rep,MA,official list
+377,RepDavidEPrice,David E. Price,Democrat,rep,NC,official list
+378,RepMikeQuigley,Mike Quigley,Democrat,rep,IL,official list
+379,RepRaskin,Jamie Raskin,Democrat,rep,MD,official list
+380,GReschenthaler,Guy Reschenthaler,Republican,rep,PA,official list
+381,RepKathleenRice,Kathleen M. Rice,Democrat,rep,NY,official list
+382,RepTomRice,Tom Rice,Republican,rep,SC,official list
+383,cathymcmorris,Cathy McMorris Rodgers,Republican,rep,WA,official list
+384,RepMikeRogersAL,Mike Rogers,Republican,rep,AL,official list
+385,RepJohnRose,John Rose,Republican,rep,TN,official list
+386,RepRosendale,"Matthew M. Rosendale, Sr.",Republican,rep,MT,official list
+387,RepDeborahRoss,Deborah K. Ross,Democrat,rep,NC,official list
+388,RepDavidRouzer,David Rouzer,Republican,rep,NC,official list
+389,RepChipRoy,Chip Roy,Republican,rep,TX,official list
+390,RepRoybalAllard,Lucille Roybal-Allard,Democrat,rep,CA,official list
+391,RepRaulRuizMD,Raul Ruiz,Democrat,rep,CA,official list
+392,Call_Me_Dutch,C. A. Dutch Ruppersberger,Democrat,rep,MD,official list
+393,RepBobbyRush,Bobby L. Rush,Democrat,rep,IL,official list
+394,RepTimRyan,Tim Ryan,Democrat,rep,OH,official list
+395,Kilili_Sablan,Gregorio Kilili Camacho Sablan,Democrat,rep,MP,official list
+396,RepMariaSalazar,Maria Elvira Salazar,Republican,rep,FL,official list
+397,RepLindaSanchez,Linda T. Sánchez,Democrat,rep,CA,official list
+398,RepSarbanes,John P. Sarbanes,Democrat,rep,MD,official list
+399,SteveScalise,Steve Scalise,Republican,rep,LA,official list
+400,RepMGS,Mary Gay Scanlon,Democrat,rep,PA,official list
+401,janschakowsky,Janice D. Schakowsky,Democrat,rep,IL,official list
+402,RepAdamSchiff,Adam B. Schiff,Democrat,rep,CA,official list
+403,RepSchneider,Bradley Scott Schneider,Democrat,rep,IL,official list
+404,RepSchrader,Kurt Schrader,Democrat,rep,OR,official list
+405,RepKimSchrier,Kim Schrier,Democrat,rep,WA,official list
+406,RepDavid,David Schweikert,Republican,rep,AZ,official list
+407,AustinScottGA08,Austin Scott,Republican,rep,GA,official list
+408,BobbyScott,"Robert C. ""Bobby"" Scott",Democrat,rep,VA,official list
+409,PeteSessions,Pete Sessions,Republican,rep,TX,official list
+410,RepTerriSewell,Terri Sewell,Democrat,rep,AL,official list
+411,BradSherman,Brad Sherman,Democrat,rep,CA,official list
+412,RepSherrill,Mikie Sherrill,Democrat,rep,NJ,official list
+413,CongMikeSimpson,Michael K. Simpson,Republican,rep,ID,official list
+414,RepSires,Albio Sires,Democrat,rep,NJ,official list
+415,RepSlotkin,Elissa Slotkin,Democrat,rep,MI,official list
+416,RepAdamSmith,Adam Smith,Democrat,rep,WA,official list
+417,RepAdrianSmith,Adrian Smith,Republican,rep,NE,official list
+418,RepJasonSmith,Jason Smith,Republican,rep,MO,official list
+419,RepSmucker,Lloyd Smucker,Republican,rep,PA,official list
+420,RepDarrenSoto,Darren Soto,Democrat,rep,FL,official list
+421,RepSpanberger,Abigail Davis Spanberger,Democrat,rep,VA,official list
+422,RepSpartz,Victoria Spartz,Republican,rep,IN,official list
+423,RepSpeier,Jackie Speier,Democrat,rep,CA,official list
+424,Rep_Stansbury,Melanie A. Stansbury,Democrat,rep,NM,official list
+425,RepGregStanton,Greg Stanton,Democrat,rep,AZ,official list
+426,RepPeteStauber,Pete Stauber,Republican,rep,MN,official list
+427,RepSteel,Michelle Steel,Republican,rep,CA,official list
+428,RepStefanik,Elise M. Stefanik,Republican,rep,NY,official list
+429,RepBryanSteil,Bryan Steil,Republican,rep,WI,official list
+430,RepGregSteube,W. Gregory Steube,Republican,rep,FL,official list
+431,RepHaleyStevens,Haley M. Stevens,Democrat,rep,MI,official list
+432,RepChrisStewart,Chris Stewart,Republican,rep,UT,official list
+433,RepStricklandWA,Marilyn Strickland,Democrat,rep,WA,official list
+434,RepTomSuozzi,Thomas R. Suozzi,Democrat,rep,NY,official list
+435,RepSwalwell,Eric Swalwell,Democrat,rep,CA,official list
+436,RepMarkTakano,Mark Takano,Democrat,rep,CA,official list
+437,claudiatenney,Claudia Tenney,Republican,rep,NY,assigned by hand
+438,BennieGThompson,Bennie G. Thompson,Democrat,rep,MS,official list
+439,RepThompson,Mike Thompson,Democrat,rep,CA,official list
+440,RepTiffany,Thomas P. Tiffany,Republican,rep,WI,official list
+441,RepTimmons,William R. Timmons IV,Republican,rep,SC,official list
+442,repdinatitus,Dina Titus,Democrat,rep,NV,official list
+443,RepRashida,Rashida Tlaib,Democrat,rep,MI,official list
+444,RepPaulTonko,Paul Tonko,Democrat,rep,NY,official list
+445,NormaJTorres,Norma J. Torres,Democrat,rep,CA,official list
+446,RepRitchie,Ritchie Torres,Democrat,rep,NY,official list
+447,RepLoriTrahan,Lori Trahan,Democrat,rep,MA,official list
+448,RepDavidTrone,David J. Trone,Democrat,rep,MD,official list
+449,RepMikeTurner,Michael R. Turner,Republican,rep,OH,official list
+450,RepUnderwood,Lauren Underwood,Democrat,rep,IL,official list
+451,RepDavidValadao,David G. Valadao,Republican,rep,CA,official list
+452,RepBethVanDuyne,Beth Van Duyne,Republican,rep,TX,official list
+453,RepJuanVargas,Juan Vargas,Democrat,rep,CA,official list
+454,RepVeasey,Marc A. Veasey,Democrat,rep,TX,official list
+455,NydiaVelazquez,Nydia M. Velázquez,Democrat,rep,NY,official list
+456,RepAnnWagner,Ann Wagner,Republican,rep,MO,official list
+457,RepWalberg,Tim Walberg,Republican,rep,MI,official list
+458,RepWalorski,Jackie Walorski,Republican,rep,IN,official list
+459,michaelgwaltz,Michael Waltz,Republican,rep,FL,assigned by hand
+460,RepDWStweets,Debbie Wasserman Schultz,Democrat,rep,FL,official list
+461,RepBonnie,Bonnie Watson Coleman,Democrat,rep,NJ,official list
+462,RepWebster,Daniel Webster,Republican,rep,FL,official list
+463,PeterWelch,Peter Welch,Democrat,rep,VT,official list
+464,RepWesterman,Bruce Westerman,Republican,rep,AR,official list
+465,RepWexton,Jennifer Wexton,Democrat,rep,VA,official list
+466,RepSusanWild,Susan Wild,Democrat,rep,PA,official list
+467,RepNikema,Nikema Williams,Democrat,rep,GA,official list
+468,RepRWilliams,Roger Williams,Republican,rep,TX,official list
+469,RepWilson,Frederica S. Wilson,Democrat,rep,FL,official list
+470,RepJoeWilson,Joe Wilson,Republican,rep,SC,official list
+471,RobWittman,Robert J. Wittman,Republican,rep,VA,official list
+472,rep_stevewomack,Steve Womack,Republican,rep,AR,official list
+473,RepJohnYarmuth,John A. Yarmuth,Democrat,rep,KY,official list
+474,RepLeeZeldin,Lee M. Zeldin,Republican,rep,NY,official list
